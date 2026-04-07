@@ -5,7 +5,8 @@
 💡 Also:  
 I belevie in "Work Smart not just hard", So can work in jsut hours with the problem solving skills that is my skill i consider.
 ---
-### 💡 What I Do
+###
+💡 What I Do
 - ⚡ Develop modern web applications using **React & JavaScript**
 - 🛒 Build and customize **Shopify & WordPress e-commerce stores**
 - 🧠 Design scalable backend systems with **Python & databases**
