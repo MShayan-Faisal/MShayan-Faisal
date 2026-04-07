@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm M Shayan Faisal</h1>
 
 <p align="center">
-  🚀 Full Stack Developer • ⚡ AI-Driven Workflow • 💡 Problem Solver
+  💻 Full Stack Dev | React • Python • MongoDB | From Idea → Production
 </p>
 
 ---
