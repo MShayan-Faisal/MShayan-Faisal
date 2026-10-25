@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/badge/Engine-Unity-FFFFFF?style=for-the-badge&labelColor=101820&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
-<p align="center">
-  <a href="https://mshayan-faisal.github.io/Portfolio-3.0/"><b>🌐 Portfolio</b></a> •
-  <a href="https://www.linkedin.com/in/m-shayan-faisal/"><b>💼 LinkedIn</b></a> •
-  <a href="https://github.com/MShayan-Faisal"><b>🐙 GitHub</b></a>
-</p>
 
 ---
 
