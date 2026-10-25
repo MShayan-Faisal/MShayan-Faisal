@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Unity+Game+Developer+%F0%9F%8E%AE;Software+Engineer+%F0%9F%92%BB;Building+2D+%26+3D+Games;Turning+Ideas+Into+Interactive+Experiences" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  🎮 Unity Game Development | 💻 Software Engineering 
-</p>
-
 ---
 
 ## 🚀 About Me
