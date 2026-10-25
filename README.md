@@ -11,9 +11,7 @@
 I'm a Computer Science student and aspiring **Game Developer & Software Engineer**, passionate about building interactive games, solving technical problems, and developing practical software solutions.
 
 🎮 I work with Unity and C# to create 2D and 3D game experiences, explore gameplay mechanics, and bring ideas to life.
-
 💻 I also have experience with web development, databases, and software testing, giving me a broader understanding of the software development lifecycle.
-
 ⚡ I believe in **working smart, learning continuously, and solving problems efficiently**. I use modern development tools, including AI-assisted workflows, to improve productivity while focusing on code quality and understanding the solutions I build.
 
 ---
