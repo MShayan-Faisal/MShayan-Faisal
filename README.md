@@ -1,4 +1,4 @@
-# 👋 Hi, I'm M Shayan Faisal
+# 👋 I'm M Shayan Faisal
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Unity+Game+Developer+%F0%9F%8E%AE;Software+Engineer+%F0%9F%92%BB;Building+2D+%26+3D+Games;Turning+Ideas+Into+Interactive+Experiences" alt="Typing SVG" />
@@ -55,20 +55,6 @@ I'm a Computer Science student and aspiring **Game Developer & Software Engineer
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,js,react,html,css,mysql,mongodb,git,github,vscode" alt="Technologies and tools" />
 </p>
 
----
-
-## 🕹️ Featured Projects
-
-🎮 **Survive the World**  
-A 3D survival game developed with Unity, featuring zombie enemies and survival gameplay.
-
-🚀 **Space Lander**  
-A 2D game focused on player movement, landing mechanics, and avoiding crashes.
-
-🥷 **Ninja Strikes**  
-A gameplay project involving progression mechanics, collectible items, and level objectives.
-
----
 
 ## 📈 My Development Mindset
 
