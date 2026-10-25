@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎮 Unity Game Development | 💻 Software Engineering |
+  🎮 Unity Game Development | 💻 Software Engineering 
 </p>
 
 ---
